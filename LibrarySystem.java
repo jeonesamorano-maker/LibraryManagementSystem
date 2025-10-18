@@ -1,9 +1,10 @@
 import java.io.*;
 import java.time.LocalDate;
 import java.util.*;
+
 /*Ang Library System usa ka program nga nagdumala sa pagpahulam ug pagbalik sa mga libro.
  Ang user kinahanglan mag-login una. Kung user siya, pwede siya makakita, manghulam, mobalik, 
- ug mangita ug libro. Kung admin siya, maka add, update,  delete ug libro, ug maka add ug user. */
+ ug mangita ug libro. Kung admin ang mag login maka add, update,  delete ug libro, ug maka add ug user. */
 
 
 public class LibrarySystem {

@@ -4,7 +4,7 @@
    object. Naa ni mga getter methods (getId() ug getName()) aron makuha ang ID ug ngalan,
    ug usa ka displayInfo() nga methods aron ipakita kini nga impormasyon sa console. 
    Sa kinatibuk-an, ang Person class gigamit aron mahimong batakang methods sa mga tawo sulod sa system,
-   aron magamit usab sa mga klase nga nagmana niini. 
+   aron magamit usab sa mga class nga nagmana niini. 
  */
 
 

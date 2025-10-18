@@ -1,4 +1,4 @@
-/* Kaning Book nga klase nagrepresentar sa usa ka libro sulod sa Library Management System.
+/* Kaning Book class nagrepresentar sa usa ka libro sulod sa Library Management System.
  naa ni upat ka main nga data ang: bookId, title, author,
   ug kung ang libro kay libre pa bang mahulaman o 
  nahulaman na. Sa constructor, gisulod ang mga impormasyon sa dihang maghimo ug bag-ong libro.

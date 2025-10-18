@@ -1,6 +1,6 @@
 /*Ang Transaction class nagrekord sa paghulam ug pagbalik sa libro.
 naa sab ni transactionId, userId, bookId, dateBorrowed, ug dateReturned aron masubay 
- kinsa ang nanghulam ug kanus-a gibalik ang libro. Ang displayTransaction() mopakita sa detalye 
+ kinsa ang nanghulam ug kanus-a gibalik ang libro. Ang displayTransaction() mopakita sa mga details
  sa transaksiyon, ug kung wala pa nabalik, ipakita nga “Not Returned.”
  */
 

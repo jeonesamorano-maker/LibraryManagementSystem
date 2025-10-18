@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 /*Ang FileHandler nga klase maoy responsable sa tanang file input 
-ug output nga operasyon sa Library Management System. Kini ang nagbasa
+ug output nga operasyon sa Library Management System. Mao ni ang nagbasa
 ug nagsulat sa datos para sa mga user, libro, ug transaksiyon gikan ug 
 padulong sa mga text file. Kung ang usa ka file wala pa mag-exist,
  automatic kini maghimo ug bag-ong file nga adunay default nga data aron 
