@@ -107,7 +107,7 @@ public class LibrarySystem {
     }
 
     private void borrowBook(Scanner sc) {
-        // Limit: user can borrow max 3 books
+        // in this code user can borrow max 3 books
         long borrowedCount = transactions.stream()
                 .filter(t -> t.getUserId().equals(loggedInUser.getId()) && t.getDateReturned() == null)
                 .count();
